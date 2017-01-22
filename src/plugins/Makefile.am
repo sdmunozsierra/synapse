@@ -53,6 +53,7 @@ libplugins_la_VALASOURCES = \
 	selection-plugin.vala \
 	test-slow-plugin.vala \
 	system-management.vala \
+	wolfram-search.vala \
 	$(NULL)
 
 if HAVE_ZEITGEIST
